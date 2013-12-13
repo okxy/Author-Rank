@@ -10,6 +10,6 @@ score = occurrence
 Dev1:
 score = occurrence * journal impact factor
 
-Dv2；
+Dv2:
 score = occurrence * journal impact factor * Author order
 
